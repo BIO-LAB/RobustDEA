@@ -1,4 +1,4 @@
-# README for RobustDEA # Li Zhang (lizhang@njfu.edu.cn)
+README for RobustDEA  Li Zhang (lizhang@njfu.edu.cn)
 
 RobustDEA is a fast and robust method for finding differentially expressed genes in RNA-Seq Data.
 
