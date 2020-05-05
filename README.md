@@ -8,4 +8,4 @@ Then, you can run a example as follow:
 > source('RobustDEA.runExample.R')
 
 
-The RobustDEA algorithm is developed and implemented by Li Zhang. 
+The RobustDEA algorithm is developed and implemented by Li Zhang.  
